@@ -1,2 +1,2 @@
-# estatica
-Exemplo de uso de variável de classe (estática)
+# Membros Estáticos
+Exemplo de uso de variável de classe (estática).
